@@ -1,0 +1,16 @@
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\net5.0\AddTwoNumbers.exe
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\net5.0\AddTwoNumbers.deps.json
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\net5.0\AddTwoNumbers.runtimeconfig.json
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\net5.0\AddTwoNumbers.runtimeconfig.dev.json
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\net5.0\AddTwoNumbers.dll
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\net5.0\ref\AddTwoNumbers.dll
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\net5.0\AddTwoNumbers.pdb
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\net5.0\AddTwoNumbers.csprojAssemblyReference.cache
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\net5.0\AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\net5.0\AddTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\net5.0\AddTwoNumbers.AssemblyInfo.cs
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\net5.0\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\net5.0\AddTwoNumbers.dll
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\net5.0\ref\AddTwoNumbers.dll
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\net5.0\AddTwoNumbers.pdb
+C:\Users\Thomas Stone\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\net5.0\AddTwoNumbers.genruntimeconfig.cache
